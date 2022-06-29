@@ -1,30 +1,91 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 7, 6/21/2022
+**Today's Progress**: I created Instagram for 100 days of code challenge to post my progress. Today is Day 7, and I wanted to start recording my progress on a log and practice what I've previously learned
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts**: I have been focusing on learning Python since I learned a bit of JavaScript, CSS, HTML from CSULB 1 month long bootcamp.  I started my lessons on Code Academy, and wanted to be part of a community and see how others were doing with their journey.  I feel like coding makes a lot of sense to me, I enjoy it and appreciate it.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link to work**:[Instagram App](https://www.instagram.com/p/CfGU6vrOm-J/)
 
 
-### Day 1: June 27, Monday
+### Day 8, 6/22/2022 
+**Today's Progress**: Learning about Python Functions.  Keeping in mind that I already have learned functions and the basics of JavaScript, HTML, and CSS.  Strings, imports, parameters, all the basics of functions in 19 pages of lessons
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Thoughts**: Today i'm a bit distracted, stayed on the computer from 4:30pm to 12:30am just to code and learn last night.  Didn't sleep well last night from over-thinking and drinking an energy drink.  Caffeine-sensitive and all.  It's taking a while for me to get through today's lessons since I'm distracted.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Link to work**:[Instagram App](https://www.instagram.com/p/CfH59jbvsQN/)
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+### Day 9, 6/23/2022, 
+**Today's Progress**: practicing functions still, putting it into one giant practice. AS well as learning Lists
+
+**Thoughts**: A thought everyone has "the solution vs my code are exactly the same.. why isn't it working.. jk there was a space in front of def." appending and slicing lists aren't too difficult of a concept to grasp either.  I'm a bit bored, but I know that I need to learn/practice. 
+
+**Link to work**:[Instagram App](https://www.instagram.com/p/CfKWw3uqBio/)
+
+
+### Day 10, 6/24/2022 
+**Today's Progress**: Using lists on python, learning inserts/index, "for loop", dictionaries/keys, 
+
+**Thoughts**: I am extremely caffeine sensitive. Super jittery from drinking a celsius "peach vibe".  Bright side, getting A LOT of coding done. Downside, ADD is VERY high. Getting distracted super easily.
+
+**Link to work**: [Instagram App](https://www.instagram.com/p/CfM2aFyKPR1/)
+
+
+### Day 11, 6/27/2022 
+**Today's Progress**: review for loops today, created repo for codeacademy project starting with A Day in Supermarket, did challenge code to find student grade/class average and used lists, dictionaries, for loop, function in a funciton etc etc.,
+
+**Thoughts**: big weekend, eyes hurt from staring at screen, super sleepy/groggy, can't think or make any functions work today. indentations are super important cuz all of my written code is correct except for the indentations lol.  Should've started my repo for codeacadmey when i first started so that it'll display everything i've done in the past 11 days.  Better late than never
+
+**Link to work**: [GitHub Repo](https://github.com/M-Refe/Codeacademy.git)
+
+
+### Day 12, 6/28/2022
+**Today's Progress**: lists, reviewing, and expanding on functions
+
+**Thoughts**: not super focused, took me too long within the hour to get through 12 pages out of 18 pages in a less
+
+**Link to work**: [GitHub Repo](https://github.com/M-Refe/Codeacademy/blob/main/listscript.py)
+
+
+### Day , 
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: 
+
+### Day , 
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: 
+
+### Day , 
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: 
+
+### Day , 
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: 
+
+### Day , 
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: 
+
+### Day , 
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: 

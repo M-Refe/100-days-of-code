@@ -48,12 +48,13 @@
 **Link to work**: [GitHub Repo](https://github.com/M-Refe/Codeacademy/blob/main/listscript.py)
 
 
-### Day , 
-**Today's Progress**: 
+### Day 13, 6/29/2022
+**Today's Progress**: lists, expanding on iterating/ passing range into a function, using strings in functions, using 2 lists as 2 arguments in a function, and using a list of lists in a function
 
-**Thoughts**: 
+**Thoughts**: everything was pretty simple, except when i was using a list of lists in a function,  i didnt' quite figure out append. i wrote the function but forgot to include n in append.  i think i got the hang of most of it, hopefully i can translate this into something that pops out of my head.  i hope i dont need these tutorials to tell me exactly what to write.  i'm using handicap to help step by step on what to write, but i think i can actually do it (if i can understand what the final goal is needed)
 
-**Link to work**: 
+**Link to work**: [GitHub Repo](https://github.com/M-Refe/Codeacademy/blob/main/listscript.py)
+[Instagram App](https://www.instagram.com/p/CfdbVt2IJxy/)
 
 ### Day , 
 **Today's Progress**: 

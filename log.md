@@ -56,12 +56,12 @@
 **Link to work**: [GitHub Repo](https://github.com/M-Refe/Codeacademy/blob/main/listscript.py)
 [Instagram App](https://www.instagram.com/p/CfdbVt2IJxy/)
 
-### Day , 
-**Today's Progress**: 
+### Day 15, 7/5/2022, 
+**Today's Progress**: practicing battleship. use if loops, functions, and setting up battle grid.
 
-**Thoughts**: 
+**Thoughts**: still practicing battleship, i'm very tired from my long fishing/camping/hiking weekend in mammoth.  my brain can't focus very well.
 
-**Link to work**: 
+**Link to work**: [GitHub Repo](https://github.com/M-Refe/Codeacademy.git)
 
 ### Day , 
 **Today's Progress**: 

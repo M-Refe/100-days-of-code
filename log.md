@@ -63,12 +63,12 @@
 
 **Link to work**: [GitHub Repo](https://github.com/M-Refe/Codeacademy.git)
 
-### Day , 
-**Today's Progress**: 
+### Day 16, 7/6/2022 
+**Today's Progress**: working on battleship again. finishing up the basic game with ending the game, stopping the game when battleship is sunk, and adding 4 guessing turns
 
-**Thoughts**: 
+**Thoughts**: fun, hard to get into at first and to wrap my head round. but i finished it.  with extra goals
 
-**Link to work**: 
+**Link to work**: [GitHub Repo](https://github.com/M-Refe/Codeacademy.git)
 
 ### Day , 
 **Today's Progress**: 

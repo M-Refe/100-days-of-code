@@ -77,12 +77,12 @@
 
 **Link to work**: [GitHub Repo](https://github.com/M-Refe/Codeacademy.git)
 
-### Day , 
-**Today's Progress**: 
+### Day 19, 7/13/2022 
+**Today's Progress**: finished off the while loops, took.. "a while" lol
 
-**Thoughts**: 
+**Thoughts**: still burnt out and my brain was weird.  glad i finished, but i think i need to figure out how to be more productive -earlier-
 
-**Link to work**: 
+**Link to work**: [GitHub Repo](https://github.com/M-Refe/Codeacademy.git)
 
 ### Day , 
 **Today's Progress**: 

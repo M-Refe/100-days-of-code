@@ -84,12 +84,12 @@
 
 **Link to work**: [GitHub Repo](https://github.com/M-Refe/Codeacademy.git)
 
-### Day , 
-**Today's Progress**: 
+### Day 20, 7/14/2022 
+**Today's Progress**: practice practice practice, worked with integers, summing integers, and a little on factorials
 
-**Thoughts**: 
+**Thoughts**: wow, i have no idea what i'm doing. this is all new information, how is this just practice? not sure if i'm getting this properly. will have to do it when i'm more awake
 
-**Link to work**: 
+**Link to work**: [GitHub Repo](https://github.com/M-Refe/Codeacademy.git)
 
 ### Day , 
 **Today's Progress**: 

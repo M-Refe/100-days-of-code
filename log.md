@@ -91,12 +91,12 @@
 
 **Link to work**: [GitHub Repo](https://github.com/M-Refe/Codeacademy.git)
 
-### Day , 
-**Today's Progress**: 
+### Day 21, 7/18/2022
+**Today's Progress**: practice practice practice,  a lot of stuff i didn't learn and unsure of what to do. 
 
-**Thoughts**: 
+**Thoughts**: wonder if i should do 50% of pro package to learn the parts i missed
 
-**Link to work**: 
+**Link to work**: [GitHub Repo](https://github.com/M-Refe/Codeacademy.git)
 
 ### Day , 
 **Today's Progress**: 

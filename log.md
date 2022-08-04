@@ -98,12 +98,12 @@
 
 **Link to work**: [GitHub Repo](https://github.com/M-Refe/Codeacademy.git)
 
-### Day , 
-**Today's Progress**: 
+### Day 23, 8/3/2022 
+**Today's Progress**: Python 3 Hello World and Control Flow lessons completed
 
-**Thoughts**: 
+**Thoughts**: codeacademy is offering free Python 3 course + certificate until 8/9/2022. I will be completing the course
 
-**Link to work**: 
+**Link to work**: [GitHub Repo](https://github.com/M-Refe/Codeacademy.git)
 
 ### Day , 
 **Today's Progress**: 

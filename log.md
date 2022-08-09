@@ -105,19 +105,19 @@
 
 **Link to work**: [GitHub Repo](https://github.com/M-Refe/Codeacademy.git)
 
-### Day , 
-**Today's Progress**: 
+### Day 24, 8/4/2022 
+**Today's Progress**: Did a lot more, didn't save
 
-**Thoughts**: 
+**Thoughts**: oops didn't save
 
-**Link to work**: 
+**Link to work**: [GitHub Repo](https://github.com/M-Refe/Codeacademy.git)
 
-### Day , 
-**Today's Progress**: 
+### Day 25, 8/9/2022
+**Today's Progress**: trying to get as much python in as possible
 
-**Thoughts**: 
+**Thoughts**: please save lol , this pro course makes more sense and is up to date compared to python 2.  guess i'll have to purchase the pro membership
 
-**Link to work**: 
+**Link to work**: [GitHub Repo](https://github.com/M-Refe/Codeacademy.git)
 
 ### Day , 
 **Today's Progress**: 

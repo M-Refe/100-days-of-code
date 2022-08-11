@@ -119,10 +119,10 @@
 
 **Link to work**: [GitHub Repo](https://github.com/M-Refe/Codeacademy.git)
 
-### Day , 
-**Today's Progress**: 
+### Day 26, 8/10/2022
+**Today's Progress**: did the entirety of functions and finished loops
 
-**Thoughts**: 
+**Thoughts**: dang, lots of work
 
 **Link to work**: 
 

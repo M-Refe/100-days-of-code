@@ -124,21 +124,22 @@
 
 **Thoughts**: dang, lots of work
 
-**Link to work**: 
+**Link to work**: [GitHub Repo](https://github.com/M-Refe/Codeacademy.git)
 
-### Day , 
-**Today's Progress**: 
+### Day 27, 28, 29, 8/22/2022 
+**Today's Progress**: Articles and did separate Python exercise directly on Mini Anaconda. 
 
-**Thoughts**: 
+**Thoughts**: linear regression on python, as well as extra credit articles on codeacademy seems redundant, but also great short practice to revise the brain on simple exercises
+i do appreciate this aspect of the course.
 
-**Link to work**: 
+**Link to work**: [GitHub Repo](https://github.com/M-Refe/Codeacademy.git)
 
-### Day , 
-**Today's Progress**: 
+### Day 30, 9/7/2022 
+**Today's Progress**: python challenges
 
-**Thoughts**: 
+**Thoughts**: sheesh, python challenges are taking forever but i will get through them eventually.  started new part time job, hopefully i'll get from part time to part time + full time software developer remote work 
 
-**Link to work**: 
+**Link to work**: [GitHub Repo](https://github.com/M-Refe/Codeacademy.git)
 
 ### Day , 
 **Today's Progress**: 

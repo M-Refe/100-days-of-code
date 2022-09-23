@@ -141,12 +141,12 @@ i do appreciate this aspect of the course.
 
 **Link to work**: [GitHub Repo](https://github.com/M-Refe/Codeacademy.git)
 
-### Day , 
-**Today's Progress**: 
+### Day 31, 9/22/2022 
+**Today's Progress**: python challenges
 
-**Thoughts**: 
+**Thoughts**: these challenges are making me feel reluctant to continue.  i finished the advance loops, and went through a bunch in beginner functions. 
 
-**Link to work**: 
+**Link to work**: [GitHub Repo](https://github.com/M-Refe/Codeacademy.git)
 
 ### Day , 
 **Today's Progress**: 

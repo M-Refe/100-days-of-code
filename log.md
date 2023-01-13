@@ -148,19 +148,20 @@ i do appreciate this aspect of the course.
 
 **Link to work**: [GitHub Repo](https://github.com/M-Refe/Codeacademy.git)
 
-### Day , 
-**Today's Progress**: 
+### Day 32, 1/11/2023
+**Today's Progress**: python strings 
 
-**Thoughts**: 
+**Thoughts**: i haven't coded in a very long time...  a lot of things are fuzzy, but it is necessary for me to do this because of the fuzziness. i'm currently reminding myself what strings are. tons of fun lol 
+forgot how to define a function for a second there.  and then i've forgotten gitbash, github, all those good things.  codeacademy has got my back though. thank goodness
 
-**Link to work**: 
+**Link to work**: [GitHub Repo](https://github.com/M-Refe/Codeacademy.git)
 
-### Day , 
-**Today's Progress**: 
+### Day 33,  1/12/2023  
+**Today's Progress**: lists in python, list comprehension in python for analyzing data in python
 
-**Thoughts**: 
+**Thoughts**: started a new coding certificate in analyzing data in python, i was getting bored of the old cert.  i should finish it first though, but i found the second one more relatable to the jobs i'm applying to currently.  gave me insight on how to apply python to real world scenarioss
 
-**Link to work**: 
+**Link to work**: [GitHub Repo](https://github.com/M-Refe/Codeacademy.git)
 
 ### Day , 
 **Today's Progress**: 
